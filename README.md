@@ -1,2 +1,2 @@
-# Tkinter-AlarmClock
-make simple alarm clock using tkinter in python 
+## Tkinter-AlarmClock
+make simple GUI (alarm clock) using tkinter in python 
